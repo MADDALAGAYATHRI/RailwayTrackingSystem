@@ -1,0 +1,14 @@
+{
+    "name": "railway-tracking-system",
+    "version": "1.0.0",
+    "description": "A simple railway tracking system with real-time updates.",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "cors": "^2.8.5",
+      "express": "^4.18.2"
+    }
+  }
+  
